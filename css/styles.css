@@ -1,0 +1,242 @@
+body {
+  background-color: #e5e5e5;
+  font-family: "Roboto", normal;
+  color: #000000;
+  text-decoration: none;
+  position: relative;
+  width: 1600px;
+  height: 2349px;
+  list-style: none;
+  margin: 0px;
+}
+header {
+  width: 1600px;
+  height: 100px;
+  background: #ffffff;
+  padding-top: 0px;
+  font-family: inherit;
+}
+.header-primary {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 3.75;
+  text-align: center;
+  letter-spacing: 0.06;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding-top: 200px;
+  padding-bottom: 30px;
+  padding-left: 452px;
+  padding-right: 452px;
+}
+.main-description {
+  width: 1600px;
+  height: 600px;
+  background: #2f303a;
+  color: #ffffff;
+  margin-top: 0px;
+}
+h3 {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: 0.03;
+  text-transform: uppercase;
+  color: #212121;
+}
+.text {
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0.03;
+  color: #757575;
+}
+.button-order {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 450px;
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.order {
+  width: 117px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  line-height: 1.875;
+  letter-spacing: 0.06;
+  color: #ffffff;
+}
+.logo1 {
+  width: 145px;
+  height: 39px;
+  left: 215px;
+  top: 30px;
+  text-decoration: none;
+}
+.color-logo {
+  color: #2196f3;
+  font-weight: 700;
+}
+.studio {
+  color: #000000;
+  font-weight: 700;
+}
+.studio1 {
+  color: #ffffff;
+  font-weight: 700;
+}
+.color-button {
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 450px;
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+.mail1 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: 0.02;
+  color: #757575;
+}
+.tel {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+  letter-spacing: 0.02;
+  color: #757575;
+}
+
+.list-item1 {
+  position: absolute;
+  width: 1170px;
+  height: 101px;
+  left: 215px;
+  top: 774px;
+}
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.list-primary-item {
+  position: absolute;
+  width: 1170px;
+  height: 101px;
+  left: 215px;
+  margin-top: 88px;
+}
+
+.header-secorndary {
+  padding-top: 283px;
+}
+footer {
+  position: absolute;
+  width: 1600px;
+  height: 252px;
+  left: 0px;
+  margin-top: 2097px;
+  padding-bottom: 0px;
+  background: #2f303a;
+  direction: underline;
+}
+.header-secorndary {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 2.625;
+  text-align: center;
+  letter-spacing: 0.03;
+  color: #212121;
+}
+.photos-secondary-box {
+  position: absolute;
+  width: 1170px;
+  height: 368px;
+  left: 215px;
+  top: 1635px;
+}
+.name {
+  color: #212121;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.03;
+}
+.name-of-work {
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.03;
+  color: #757575;
+}
+.logo2 {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.9375;
+  letter-spacing: 0.03;
+}
+.color-address {
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0.03;
+}
+.contact {
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0.03;
+  color: rgba(255, 255, 255, 0.6);
+}
+.text-button {
+  width: 572px;
+  height: 54px;
+  left: 510px;
+  top: 174px;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625;
+  text-align: center;
+  letter-spacing: 0.03;
+  color: #212121;
+}
+button:hover {
+  background-color: #2196f3;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  color: #ffffff;
+}
+button {
+  font-family: inherit;
+}
+.color-change:hover {
+  color: #2196f3;
+}
+.pointer {
+  cursor: pointer;
+}
+.figcapition1 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2.25;
+  letter-spacing: 0.06;
+  color: #212121;
+}
+.figcapition2 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.875;
+  letter-spacing: 0.03;
+  color: #757575;
+}
